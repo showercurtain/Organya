@@ -1,2 +1,5 @@
-/target
-/orgs
+/target/
+/orgs/
+Cargo.lock
+*.orgs
+Cave Story.org
